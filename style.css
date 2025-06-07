@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #5CCCCC;
+    padding: 10px;
+}
+h1{
+    color:	#5CCCCC;
+    text-align: center;
+
+}
+footer{
+  background-color: #5CCCCC;
+
+}
+footer p {
+    background-color:#006363;
+    color:white;
+}
+nav {
+    background-color: #5CCCCC;
+
+}
+nav a {
+    margin:20px;
+    font-size:20px;
+    text-decoration: none;
+    color:white;
+}
+ .bob {
+    border-radius: 5px;
+    border: 1px solid #4671D5;
+
+ }
+ h2 {
+    color:blue;
+
+ }
+
+ .bop {
+    
+    border: 3px solid 	#06266F;
+    padding:10px;
+
+ }
+
